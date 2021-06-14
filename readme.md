@@ -1,0 +1,1 @@
+Creating a Sass structure for the project.
